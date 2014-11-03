@@ -1,3 +1,23 @@
 body {
-      font-family: Pericles;
+    font-family: Pericles;
+}
+
+footer {
+    background-color: #53cd1a;
+    border: 2px solid #cda215;
+    margin: 8px;
+    padding: 4px;
+    border-radius: 10px;
+    border-style: dotted; 
+}
+a{
+    border: 1px solid #2c1c07; 
+      border-radius: 10px;  
+     background-color: #ec8507;   
+      padding: 2px;  
+      margin:4px;  
+        
+    text-decoration: none;
+    
+    
 }
