@@ -10,13 +10,25 @@ footer {
     border-radius: 10px;
     border-style: dotted; 
 }
-a{
-    border: 1px solid #2c1c07; 
+
+
+nav{
+    float: right;
+}
+
+nav ul li {
+    display: inline;
+    margin: 6px;
+}
+
+nav ul li a{
+    border-width: 1px ;
+    border-color: #2c1c07; 
+    border-style: dashed;
       border-radius: 10px;  
      background-color: #ec8507;   
       padding: 2px;  
-      margin:4px;  
-        
+      
     text-decoration: none;
     
     
